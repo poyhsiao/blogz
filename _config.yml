@@ -100,11 +100,11 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-46999556-1'
     getclicky :
-      site_id : 
+      site_id :  100692010 
     mixpanel :
-        token : '_MIXPANEL_TOKEN_'
+        token : 'e675c760a1aba4cca260b00deacd962c'
     piwik :
         baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
         idsite : '1'                   # the id of the site on Piwik
